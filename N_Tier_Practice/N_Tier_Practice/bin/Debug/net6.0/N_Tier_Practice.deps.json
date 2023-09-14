@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "N_Tier_Practice/1.0.0": {
+        "dependencies": {
+          "Practice_PL": "1.0.0"
+        },
+        "runtime": {
+          "N_Tier_Practice.dll": {}
+        }
+      },
+      "Practice_BLL/1.0.0": {
+        "dependencies": {
+          "Practice_DAL": "1.0.0",
+          "Practice_DTO": "1.0.0"
+        },
+        "runtime": {
+          "Practice_BLL.dll": {}
+        }
+      },
+      "Practice_DAL/1.0.0": {
+        "dependencies": {
+          "Practice_DTO": "1.0.0"
+        },
+        "runtime": {
+          "Practice_DAL.dll": {}
+        }
+      },
+      "Practice_DTO/1.0.0": {
+        "runtime": {
+          "Practice_DTO.dll": {}
+        }
+      },
+      "Practice_PL/1.0.0": {
+        "dependencies": {
+          "Practice_BLL": "1.0.0",
+          "Practice_DTO": "1.0.0"
+        },
+        "runtime": {
+          "Practice_PL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N_Tier_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice_BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice_DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice_PL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

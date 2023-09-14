@@ -1,0 +1,17 @@
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.csproj.AssemblyReference.cache
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.Form1.resources
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.csproj.GenerateResource.cache
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.AssemblyInfoInputs.cache
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.AssemblyInfo.cs
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\WPFCalculator\WPFCalculator\bin\Debug\net7.0-windows\WPFCalculator.exe
+D:\Projects\EAD\WPFCalculator\WPFCalculator\bin\Debug\net7.0-windows\WPFCalculator.deps.json
+D:\Projects\EAD\WPFCalculator\WPFCalculator\bin\Debug\net7.0-windows\WPFCalculator.runtimeconfig.json
+D:\Projects\EAD\WPFCalculator\WPFCalculator\bin\Debug\net7.0-windows\WPFCalculator.dll
+D:\Projects\EAD\WPFCalculator\WPFCalculator\bin\Debug\net7.0-windows\WPFCalculator.pdb
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.dll
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\refint\WPFCalculator.dll
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.pdb
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\WPFCalculator.genruntimeconfig.cache
+D:\Projects\EAD\WPFCalculator\WPFCalculator\obj\Debug\net7.0-windows\ref\WPFCalculator.dll

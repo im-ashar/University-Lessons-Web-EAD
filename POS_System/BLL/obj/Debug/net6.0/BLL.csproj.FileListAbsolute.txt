@@ -1,0 +1,17 @@
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\BLL.dll
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\DAL.dll
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.dll
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Projects\EAD\POS_System\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\DTO.dll
+D:\Projects\EAD\POS_System\BLL\bin\Debug\net6.0\DTO.pdb

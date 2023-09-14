@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Add Add Category Detail";
+}
+@model CategoryDetail
+
+<h3>Add Category Detail</h3>
+<form action="/Home/AddCategoryDetail" method="post">
+    <div class="mb-3">
+        <label asp-for="CategoryDetailInfo" class="form-label"></label>
+        <input asp-for="CategoryDetailInfo" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Category.CategoryName" class="form-label"></label>
+        <input asp-for="Category.CategoryName" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

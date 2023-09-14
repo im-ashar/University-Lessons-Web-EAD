@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practice_DAL/1.0.0": {
+        "dependencies": {
+          "Practice_DTO": "1.0.0"
+        },
+        "runtime": {
+          "Practice_DAL.dll": {}
+        }
+      },
+      "Practice_DTO/1.0.0": {
+        "runtime": {
+          "Practice_DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice_DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POS_System": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

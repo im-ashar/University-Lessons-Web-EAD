@@ -1,0 +1,12 @@
+﻿@model List<User>
+
+<ul id="list">
+    @foreach (var user in Model)
+    {
+        <li id="@user.Id">@user.Id</li>
+    }
+</ul>
+
+<input id="inputTag" type="text" onfocus="clearError()" />
+<button type="submit" id="btn">Submit</button>
+<span class="text-danger" id="error"></span>

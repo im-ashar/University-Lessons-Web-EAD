@@ -1,0 +1,15 @@
+D:\Projects\EAD\Events\Events\bin\Debug\net6.0\Events.exe
+D:\Projects\EAD\Events\Events\bin\Debug\net6.0\Events.deps.json
+D:\Projects\EAD\Events\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\Projects\EAD\Events\Events\bin\Debug\net6.0\Events.dll
+D:\Projects\EAD\Events\Events\bin\Debug\net6.0\Events.pdb
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.dll
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\refint\Events.dll
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.pdb
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+D:\Projects\EAD\Events\Events\obj\Debug\net6.0\ref\Events.dll

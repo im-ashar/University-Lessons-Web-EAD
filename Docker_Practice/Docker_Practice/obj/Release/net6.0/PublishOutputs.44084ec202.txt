@@ -1,0 +1,5 @@
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\publish\Docker_Practice.exe
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\publish\Docker_Practice.dll
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\publish\Docker_Practice.deps.json
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\publish\Docker_Practice.runtimeconfig.json
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\publish\Docker_Practice.pdb

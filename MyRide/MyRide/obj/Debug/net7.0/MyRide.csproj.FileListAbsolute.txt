@@ -1,0 +1,17 @@
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\MyRide.exe
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\MyRide.deps.json
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\MyRide.runtimeconfig.json
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\MyRide.dll
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\MyRide.pdb
+D:\Projects\EAD\MyRide\MyRide\bin\Debug\net7.0\ConsoleTables.dll
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.csproj.AssemblyReference.cache
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.AssemblyInfoInputs.cache
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.AssemblyInfo.cs
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.csproj.CopyComplete
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.dll
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\refint\MyRide.dll
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.pdb
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\MyRide.genruntimeconfig.cache
+D:\Projects\EAD\MyRide\MyRide\obj\Debug\net7.0\ref\MyRide.dll

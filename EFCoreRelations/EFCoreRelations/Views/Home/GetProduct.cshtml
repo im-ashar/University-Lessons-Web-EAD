@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Get Product";
+}
+@model List<Product>
+
+@foreach (var pro in Model)
+{
+    <p>@pro.ProductName</p>
+    <p>@pro.Category.CategoryName</p>
+    <p>@pro.Category.CategoryDetail.CategoryDetailInfo</p>
+    @foreach (var com in pro.Companies)
+    {
+        <p>@com.CompanyName</p>
+    }
+    <p>----------------------------</p>
+}

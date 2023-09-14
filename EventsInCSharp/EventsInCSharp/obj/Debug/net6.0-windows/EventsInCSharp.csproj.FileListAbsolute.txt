@@ -1,0 +1,17 @@
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\bin\Debug\net6.0-windows\EventsInCSharp.exe
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\bin\Debug\net6.0-windows\EventsInCSharp.deps.json
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\bin\Debug\net6.0-windows\EventsInCSharp.runtimeconfig.json
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\bin\Debug\net6.0-windows\EventsInCSharp.dll
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\bin\Debug\net6.0-windows\EventsInCSharp.pdb
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.csproj.AssemblyReference.cache
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.Form1.resources
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.csproj.GenerateResource.cache
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.AssemblyInfoInputs.cache
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.AssemblyInfo.cs
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.dll
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\refint\EventsInCSharp.dll
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.pdb
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\EventsInCSharp.genruntimeconfig.cache
+D:\Projects\EAD\EventsInCSharp\EventsInCSharp\obj\Debug\net6.0-windows\ref\EventsInCSharp.dll

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Add Company";
+}
+@model Company
+
+<h3>Add Company</h3>
+<form action="/Home/AddCompany" method="post">
+    <div class="mb-3">
+        <label asp-for="CompanyName" class="form-label"></label>
+        <input asp-for="CompanyName" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

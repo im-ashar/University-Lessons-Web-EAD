@@ -1,0 +1,12 @@
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\bin\Debug\net6.0\Practice_DTO.deps.json
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\bin\Debug\net6.0\Practice_DTO.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\bin\Debug\net6.0\Practice_DTO.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.csproj.AssemblyReference.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.AssemblyInfoInputs.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.AssemblyInfo.cs
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\refint\Practice_DTO.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\Practice_DTO.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_DTO\obj\Debug\net6.0\ref\Practice_DTO.dll

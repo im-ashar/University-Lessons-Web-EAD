@@ -1,0 +1,15 @@
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\Docker_Practice.exe
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\Docker_Practice.deps.json
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\Docker_Practice.runtimeconfig.json
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\Docker_Practice.dll
+D:\Projects\EAD\Docker_Practice\Docker_Practice\bin\Release\net6.0\Docker_Practice.pdb
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.csproj.AssemblyReference.cache
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.AssemblyInfoInputs.cache
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.AssemblyInfo.cs
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.dll
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\refint\Docker_Practice.dll
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.pdb
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\Docker_Practice.genruntimeconfig.cache
+D:\Projects\EAD\Docker_Practice\Docker_Practice\obj\Release\net6.0\ref\Docker_Practice.dll

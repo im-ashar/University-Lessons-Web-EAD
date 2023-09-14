@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Practice_BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Practice_DAL": "1.0.0",
+          "Practice_DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Practice_BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Practice_BLL.dll": {}
+        }
+      },
+      "Practice_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Practice_DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Practice_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Practice_DAL.dll": {}
+        }
+      },
+      "Practice_DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Practice_DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Practice_DTO.dll": {}
+        }
+      },
+      "Practice_PL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Practice_BLL": "1.0.0",
+          "Practice_DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Practice_PL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Practice_PL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice_BLL/1.0.0": {
+      "type": "project",
+      "path": "../Practice_BLL/Practice_BLL.csproj",
+      "msbuildProject": "../Practice_BLL/Practice_BLL.csproj"
+    },
+    "Practice_DAL/1.0.0": {
+      "type": "project",
+      "path": "../Practice_DAL/Practice_DAL.csproj",
+      "msbuildProject": "../Practice_DAL/Practice_DAL.csproj"
+    },
+    "Practice_DTO/1.0.0": {
+      "type": "project",
+      "path": "../Practice_DTO/Practice_DTO.csproj",
+      "msbuildProject": "../Practice_DTO/Practice_DTO.csproj"
+    },
+    "Practice_PL/1.0.0": {
+      "type": "project",
+      "path": "../Practice_PL/Practice_PL.csproj",
+      "msbuildProject": "../Practice_PL/Practice_PL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Practice_PL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\muham\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\EAD\\N_Tier_Practice\\N_Tier_Practice\\N_Tier_Practice.csproj",
+      "projectName": "N_Tier_Practice",
+      "projectPath": "D:\\Projects\\EAD\\N_Tier_Practice\\N_Tier_Practice\\N_Tier_Practice.csproj",
+      "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\EAD\\N_Tier_Practice\\N_Tier_Practice\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projects\\EAD\\N_Tier_Practice\\Practice_PL\\Practice_PL.csproj": {
+              "projectPath": "D:\\Projects\\EAD\\N_Tier_Practice\\Practice_PL\\Practice_PL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

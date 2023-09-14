@@ -1,0 +1,10 @@
+﻿@using FinalPreparation.Models
+@model User
+<h2>Login</h2>
+<form action="/Home/Login" method="post">
+    <label asp-for="UserName">UserName</label>
+    <input asp-for="UserName" type="text" />
+    <label asp-for="Password">Password</label>
+    <input asp-for="Password" type="text" />
+    <button type="submit">Submit</button>
+</form>

@@ -1,0 +1,17 @@
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_BLL.deps.json
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_BLL.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_BLL.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_DAL.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_DTO.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_DAL.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\bin\Debug\net6.0\Practice_DTO.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.csproj.AssemblyReference.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.AssemblyInfoInputs.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.AssemblyInfo.cs
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.csproj.CopyComplete
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\refint\Practice_BLL.dll
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\Practice_BLL.pdb
+D:\Projects\EAD\N_Tier_Practice\Practice_BLL\obj\Debug\net6.0\ref\Practice_BLL.dll

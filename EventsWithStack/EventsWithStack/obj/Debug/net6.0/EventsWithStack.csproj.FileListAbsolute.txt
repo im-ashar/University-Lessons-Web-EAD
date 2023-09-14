@@ -1,0 +1,15 @@
+D:\Projects\EAD\EventsWithStack\EventsWithStack\bin\Debug\net6.0\EventsWithStack.exe
+D:\Projects\EAD\EventsWithStack\EventsWithStack\bin\Debug\net6.0\EventsWithStack.deps.json
+D:\Projects\EAD\EventsWithStack\EventsWithStack\bin\Debug\net6.0\EventsWithStack.runtimeconfig.json
+D:\Projects\EAD\EventsWithStack\EventsWithStack\bin\Debug\net6.0\EventsWithStack.dll
+D:\Projects\EAD\EventsWithStack\EventsWithStack\bin\Debug\net6.0\EventsWithStack.pdb
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.csproj.AssemblyReference.cache
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.AssemblyInfoInputs.cache
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.AssemblyInfo.cs
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.csproj.CoreCompileInputs.cache
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.dll
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\refint\EventsWithStack.dll
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.pdb
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\EventsWithStack.genruntimeconfig.cache
+D:\Projects\EAD\EventsWithStack\EventsWithStack\obj\Debug\net6.0\ref\EventsWithStack.dll

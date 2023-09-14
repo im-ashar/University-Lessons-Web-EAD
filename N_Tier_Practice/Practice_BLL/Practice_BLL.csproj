@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Practice_DAL\Practice_DAL.csproj" />
+    <ProjectReference Include="..\Practice_DTO\Practice_DTO.csproj" />
+  </ItemGroup>
+
+</Project>
